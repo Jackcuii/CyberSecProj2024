@@ -1,0 +1,2171 @@
+{
+    "0.85_0": {
+        "prune_rate": 0.85,
+        "exchange_pairs_sum": 0,
+        "accuracies": [
+            0.6048,
+            0.606,
+            0.6076
+        ]
+    },
+    "0.85_25": {
+        "prune_rate": 0.85,
+        "exchange_pairs_sum": 25,
+        "accuracies": [
+            0.602,
+            0.6055,
+            0.5972
+        ]
+    },
+    "0.85_50": {
+        "prune_rate": 0.85,
+        "exchange_pairs_sum": 50,
+        "accuracies": [
+            0.602,
+            0.6002,
+            0.6022
+        ]
+    },
+    "0.85_75": {
+        "prune_rate": 0.85,
+        "exchange_pairs_sum": 75,
+        "accuracies": [
+            0.5924,
+            0.5994,
+            0.5979
+        ]
+    },
+    "0.85_100": {
+        "prune_rate": 0.85,
+        "exchange_pairs_sum": 100,
+        "accuracies": [
+            0.5712,
+            0.5815,
+            0.5906
+        ]
+    },
+    "0.85_125": {
+        "prune_rate": 0.85,
+        "exchange_pairs_sum": 125,
+        "accuracies": [
+            0.552,
+            0.5539,
+            0.5692
+        ]
+    },
+    "0.85_150": {
+        "prune_rate": 0.85,
+        "exchange_pairs_sum": 150,
+        "accuracies": [
+            0.5594,
+            0.5636,
+            0.5134
+        ]
+    },
+    "0.85_175": {
+        "prune_rate": 0.85,
+        "exchange_pairs_sum": 175,
+        "accuracies": [
+            0.4733,
+            0.5071,
+            0.5414
+        ]
+    },
+    "0.85_200": {
+        "prune_rate": 0.85,
+        "exchange_pairs_sum": 200,
+        "accuracies": [
+            0.4095,
+            0.4894,
+            0.379
+        ]
+    },
+    "0.85_225": {
+        "prune_rate": 0.85,
+        "exchange_pairs_sum": 225,
+        "accuracies": [
+            0.234,
+            0.4675,
+            0.4308
+        ]
+    },
+    "0.85_250": {
+        "prune_rate": 0.85,
+        "exchange_pairs_sum": 250,
+        "accuracies": [
+            0.4097,
+            0.2353,
+            0.1606
+        ]
+    },
+    "0.85_275": {
+        "prune_rate": 0.85,
+        "exchange_pairs_sum": 275,
+        "accuracies": [
+            0.0391,
+            0.0745,
+            0.4069
+        ]
+    },
+    "0.85_300": {
+        "prune_rate": 0.85,
+        "exchange_pairs_sum": 300,
+        "accuracies": [
+            0.1277,
+            0.2576,
+            0.1177
+        ]
+    },
+    "0.85_325": {
+        "prune_rate": 0.85,
+        "exchange_pairs_sum": 325,
+        "accuracies": [
+            0.0455,
+            0.0449,
+            0.0451
+        ]
+    },
+    "0.85_350": {
+        "prune_rate": 0.85,
+        "exchange_pairs_sum": 350,
+        "accuracies": [
+            0.094,
+            0.0319,
+            0.0701
+        ]
+    },
+    "0.85_375": {
+        "prune_rate": 0.85,
+        "exchange_pairs_sum": 375,
+        "accuracies": [
+            0.073,
+            0.0358,
+            0.0569
+        ]
+    },
+    "0.86_0": {
+        "prune_rate": 0.86,
+        "exchange_pairs_sum": 0,
+        "accuracies": [
+            0.6016,
+            0.6047,
+            0.6028
+        ]
+    },
+    "0.86_25": {
+        "prune_rate": 0.86,
+        "exchange_pairs_sum": 25,
+        "accuracies": [
+            0.6031,
+            0.5995,
+            0.6038
+        ]
+    },
+    "0.86_50": {
+        "prune_rate": 0.86,
+        "exchange_pairs_sum": 50,
+        "accuracies": [
+            0.5959,
+            0.593,
+            0.5935
+        ]
+    },
+    "0.86_75": {
+        "prune_rate": 0.86,
+        "exchange_pairs_sum": 75,
+        "accuracies": [
+            0.5722,
+            0.5924,
+            0.5964
+        ]
+    },
+    "0.86_100": {
+        "prune_rate": 0.86,
+        "exchange_pairs_sum": 100,
+        "accuracies": [
+            0.5856,
+            0.5781,
+            0.5878
+        ]
+    },
+    "0.86_125": {
+        "prune_rate": 0.86,
+        "exchange_pairs_sum": 125,
+        "accuracies": [
+            0.5768,
+            0.5766,
+            0.5865
+        ]
+    },
+    "0.86_150": {
+        "prune_rate": 0.86,
+        "exchange_pairs_sum": 150,
+        "accuracies": [
+            0.5188,
+            0.4326,
+            0.5451
+        ]
+    },
+    "0.86_175": {
+        "prune_rate": 0.86,
+        "exchange_pairs_sum": 175,
+        "accuracies": [
+            0.5078,
+            0.3114,
+            0.3919
+        ]
+    },
+    "0.86_200": {
+        "prune_rate": 0.86,
+        "exchange_pairs_sum": 200,
+        "accuracies": [
+            0.2748,
+            0.4218,
+            0.3124
+        ]
+    },
+    "0.86_225": {
+        "prune_rate": 0.86,
+        "exchange_pairs_sum": 225,
+        "accuracies": [
+            0.2574,
+            0.1997,
+            0.0658
+        ]
+    },
+    "0.86_250": {
+        "prune_rate": 0.86,
+        "exchange_pairs_sum": 250,
+        "accuracies": [
+            0.2919,
+            0.1378,
+            0.1696
+        ]
+    },
+    "0.86_275": {
+        "prune_rate": 0.86,
+        "exchange_pairs_sum": 275,
+        "accuracies": [
+            0.0307,
+            0.1259,
+            0.094
+        ]
+    },
+    "0.86_300": {
+        "prune_rate": 0.86,
+        "exchange_pairs_sum": 300,
+        "accuracies": [
+            0.1105,
+            0.086,
+            0.1669
+        ]
+    },
+    "0.86_325": {
+        "prune_rate": 0.86,
+        "exchange_pairs_sum": 325,
+        "accuracies": [
+            0.0884,
+            0.0271,
+            0.0782
+        ]
+    },
+    "0.86_350": {
+        "prune_rate": 0.86,
+        "exchange_pairs_sum": 350,
+        "accuracies": [
+            0.0426,
+            0.0191,
+            0.0456
+        ]
+    },
+    "0.86_375": {
+        "prune_rate": 0.86,
+        "exchange_pairs_sum": 375,
+        "accuracies": [
+            0.0295,
+            0.0455,
+            0.0372
+        ]
+    },
+    "0.87_0": {
+        "prune_rate": 0.87,
+        "exchange_pairs_sum": 0,
+        "accuracies": [
+            0.6002,
+            0.6037,
+            0.604
+        ]
+    },
+    "0.87_25": {
+        "prune_rate": 0.87,
+        "exchange_pairs_sum": 25,
+        "accuracies": [
+            0.5955,
+            0.6056,
+            0.6018
+        ]
+    },
+    "0.87_50": {
+        "prune_rate": 0.87,
+        "exchange_pairs_sum": 50,
+        "accuracies": [
+            0.595,
+            0.5931,
+            0.5969
+        ]
+    },
+    "0.87_75": {
+        "prune_rate": 0.87,
+        "exchange_pairs_sum": 75,
+        "accuracies": [
+            0.5834,
+            0.5818,
+            0.5778
+        ]
+    },
+    "0.87_100": {
+        "prune_rate": 0.87,
+        "exchange_pairs_sum": 100,
+        "accuracies": [
+            0.5545,
+            0.5619,
+            0.5552
+        ]
+    },
+    "0.87_125": {
+        "prune_rate": 0.87,
+        "exchange_pairs_sum": 125,
+        "accuracies": [
+            0.4949,
+            0.5434,
+            0.4955
+        ]
+    },
+    "0.87_150": {
+        "prune_rate": 0.87,
+        "exchange_pairs_sum": 150,
+        "accuracies": [
+            0.5416,
+            0.5022,
+            0.4713
+        ]
+    },
+    "0.87_175": {
+        "prune_rate": 0.87,
+        "exchange_pairs_sum": 175,
+        "accuracies": [
+            0.1383,
+            0.3901,
+            0.3538
+        ]
+    },
+    "0.87_200": {
+        "prune_rate": 0.87,
+        "exchange_pairs_sum": 200,
+        "accuracies": [
+            0.2588,
+            0.222,
+            0.2704
+        ]
+    },
+    "0.87_225": {
+        "prune_rate": 0.87,
+        "exchange_pairs_sum": 225,
+        "accuracies": [
+            0.1433,
+            0.295,
+            0.3032
+        ]
+    },
+    "0.87_250": {
+        "prune_rate": 0.87,
+        "exchange_pairs_sum": 250,
+        "accuracies": [
+            0.0811,
+            0.0648,
+            0.1204
+        ]
+    },
+    "0.87_275": {
+        "prune_rate": 0.87,
+        "exchange_pairs_sum": 275,
+        "accuracies": [
+            0.0781,
+            0.0254,
+            0.0778
+        ]
+    },
+    "0.87_300": {
+        "prune_rate": 0.87,
+        "exchange_pairs_sum": 300,
+        "accuracies": [
+            0.078,
+            0.0375,
+            0.0296
+        ]
+    },
+    "0.87_325": {
+        "prune_rate": 0.87,
+        "exchange_pairs_sum": 325,
+        "accuracies": [
+            0.038,
+            0.0685,
+            0.0608
+        ]
+    },
+    "0.87_350": {
+        "prune_rate": 0.87,
+        "exchange_pairs_sum": 350,
+        "accuracies": [
+            0.0069,
+            0.0171,
+            0.0112
+        ]
+    },
+    "0.87_375": {
+        "prune_rate": 0.87,
+        "exchange_pairs_sum": 375,
+        "accuracies": [
+            0.0388,
+            0.0127,
+            0.029
+        ]
+    },
+    "0.88_0": {
+        "prune_rate": 0.88,
+        "exchange_pairs_sum": 0,
+        "accuracies": [
+            0.6032,
+            0.601,
+            0.6043
+        ]
+    },
+    "0.88_25": {
+        "prune_rate": 0.88,
+        "exchange_pairs_sum": 25,
+        "accuracies": [
+            0.5942,
+            0.6028,
+            0.5986
+        ]
+    },
+    "0.88_50": {
+        "prune_rate": 0.88,
+        "exchange_pairs_sum": 50,
+        "accuracies": [
+            0.5934,
+            0.5862,
+            0.5855
+        ]
+    },
+    "0.88_75": {
+        "prune_rate": 0.88,
+        "exchange_pairs_sum": 75,
+        "accuracies": [
+            0.5916,
+            0.5714,
+            0.5683
+        ]
+    },
+    "0.88_100": {
+        "prune_rate": 0.88,
+        "exchange_pairs_sum": 100,
+        "accuracies": [
+            0.4742,
+            0.5493,
+            0.5224
+        ]
+    },
+    "0.88_125": {
+        "prune_rate": 0.88,
+        "exchange_pairs_sum": 125,
+        "accuracies": [
+            0.5003,
+            0.3613,
+            0.3564
+        ]
+    },
+    "0.88_150": {
+        "prune_rate": 0.88,
+        "exchange_pairs_sum": 150,
+        "accuracies": [
+            0.3114,
+            0.311,
+            0.1842
+        ]
+    },
+    "0.88_175": {
+        "prune_rate": 0.88,
+        "exchange_pairs_sum": 175,
+        "accuracies": [
+            0.2868,
+            0.1565,
+            0.1876
+        ]
+    },
+    "0.88_200": {
+        "prune_rate": 0.88,
+        "exchange_pairs_sum": 200,
+        "accuracies": [
+            0.1723,
+            0.0949,
+            0.1956
+        ]
+    },
+    "0.88_225": {
+        "prune_rate": 0.88,
+        "exchange_pairs_sum": 225,
+        "accuracies": [
+            0.1755,
+            0.0447,
+            0.2809
+        ]
+    },
+    "0.88_250": {
+        "prune_rate": 0.88,
+        "exchange_pairs_sum": 250,
+        "accuracies": [
+            0.2553,
+            0.0837,
+            0.1081
+        ]
+    },
+    "0.88_275": {
+        "prune_rate": 0.88,
+        "exchange_pairs_sum": 275,
+        "accuracies": [
+            0.0198,
+            0.0472,
+            0.0238
+        ]
+    },
+    "0.88_300": {
+        "prune_rate": 0.88,
+        "exchange_pairs_sum": 300,
+        "accuracies": [
+            0.0244,
+            0.0352,
+            0.0244
+        ]
+    },
+    "0.88_325": {
+        "prune_rate": 0.88,
+        "exchange_pairs_sum": 325,
+        "accuracies": [
+            0.042,
+            0.0286,
+            0.0196
+        ]
+    },
+    "0.88_350": {
+        "prune_rate": 0.88,
+        "exchange_pairs_sum": 350,
+        "accuracies": [
+            0.0135,
+            0.0246,
+            0.0205
+        ]
+    },
+    "0.88_375": {
+        "prune_rate": 0.88,
+        "exchange_pairs_sum": 375,
+        "accuracies": [
+            0.0158,
+            0.018,
+            0.0316
+        ]
+    },
+    "0.89_0": {
+        "prune_rate": 0.89,
+        "exchange_pairs_sum": 0,
+        "accuracies": [
+            0.5999,
+            0.6,
+            0.6017
+        ]
+    },
+    "0.89_25": {
+        "prune_rate": 0.89,
+        "exchange_pairs_sum": 25,
+        "accuracies": [
+            0.5932,
+            0.5949,
+            0.6033
+        ]
+    },
+    "0.89_50": {
+        "prune_rate": 0.89,
+        "exchange_pairs_sum": 50,
+        "accuracies": [
+            0.5785,
+            0.5908,
+            0.5816
+        ]
+    },
+    "0.89_75": {
+        "prune_rate": 0.89,
+        "exchange_pairs_sum": 75,
+        "accuracies": [
+            0.5615,
+            0.5708,
+            0.5803
+        ]
+    },
+    "0.89_100": {
+        "prune_rate": 0.89,
+        "exchange_pairs_sum": 100,
+        "accuracies": [
+            0.4201,
+            0.4722,
+            0.4888
+        ]
+    },
+    "0.89_125": {
+        "prune_rate": 0.89,
+        "exchange_pairs_sum": 125,
+        "accuracies": [
+            0.4178,
+            0.4514,
+            0.4776
+        ]
+    },
+    "0.89_150": {
+        "prune_rate": 0.89,
+        "exchange_pairs_sum": 150,
+        "accuracies": [
+            0.1932,
+            0.3456,
+            0.2511
+        ]
+    },
+    "0.89_175": {
+        "prune_rate": 0.89,
+        "exchange_pairs_sum": 175,
+        "accuracies": [
+            0.2051,
+            0.0277,
+            0.1526
+        ]
+    },
+    "0.89_200": {
+        "prune_rate": 0.89,
+        "exchange_pairs_sum": 200,
+        "accuracies": [
+            0.1108,
+            0.0807,
+            0.0738
+        ]
+    },
+    "0.89_225": {
+        "prune_rate": 0.89,
+        "exchange_pairs_sum": 225,
+        "accuracies": [
+            0.0996,
+            0.145,
+            0.1224
+        ]
+    },
+    "0.89_250": {
+        "prune_rate": 0.89,
+        "exchange_pairs_sum": 250,
+        "accuracies": [
+            0.0923,
+            0.0113,
+            0.0908
+        ]
+    },
+    "0.89_275": {
+        "prune_rate": 0.89,
+        "exchange_pairs_sum": 275,
+        "accuracies": [
+            0.0456,
+            0.0416,
+            0.0335
+        ]
+    },
+    "0.89_300": {
+        "prune_rate": 0.89,
+        "exchange_pairs_sum": 300,
+        "accuracies": [
+            0.0173,
+            0.0165,
+            0.0508
+        ]
+    },
+    "0.89_325": {
+        "prune_rate": 0.89,
+        "exchange_pairs_sum": 325,
+        "accuracies": [
+            0.0324,
+            0.0189,
+            0.0127
+        ]
+    },
+    "0.89_350": {
+        "prune_rate": 0.89,
+        "exchange_pairs_sum": 350,
+        "accuracies": [
+            0.0349,
+            0.0112,
+            0.0131
+        ]
+    },
+    "0.89_375": {
+        "prune_rate": 0.89,
+        "exchange_pairs_sum": 375,
+        "accuracies": [
+            0.0187,
+            0.023,
+            0.0197
+        ]
+    },
+    "0.90_0": {
+        "prune_rate": 0.9,
+        "exchange_pairs_sum": 0,
+        "accuracies": [
+            0.5962,
+            0.5969,
+            0.5974
+        ]
+    },
+    "0.90_25": {
+        "prune_rate": 0.9,
+        "exchange_pairs_sum": 25,
+        "accuracies": [
+            0.5921,
+            0.5939,
+            0.5926
+        ]
+    },
+    "0.90_50": {
+        "prune_rate": 0.9,
+        "exchange_pairs_sum": 50,
+        "accuracies": [
+            0.5653,
+            0.5891,
+            0.5688
+        ]
+    },
+    "0.90_75": {
+        "prune_rate": 0.9,
+        "exchange_pairs_sum": 75,
+        "accuracies": [
+            0.5572,
+            0.5573,
+            0.5467
+        ]
+    },
+    "0.90_100": {
+        "prune_rate": 0.9,
+        "exchange_pairs_sum": 100,
+        "accuracies": [
+            0.4986,
+            0.1833,
+            0.4398
+        ]
+    },
+    "0.90_125": {
+        "prune_rate": 0.9,
+        "exchange_pairs_sum": 125,
+        "accuracies": [
+            0.258,
+            0.482,
+            0.3469
+        ]
+    },
+    "0.90_150": {
+        "prune_rate": 0.9,
+        "exchange_pairs_sum": 150,
+        "accuracies": [
+            0.2059,
+            0.325,
+            0.2899
+        ]
+    },
+    "0.90_175": {
+        "prune_rate": 0.9,
+        "exchange_pairs_sum": 175,
+        "accuracies": [
+            0.181,
+            0.0876,
+            0.0872
+        ]
+    },
+    "0.90_200": {
+        "prune_rate": 0.9,
+        "exchange_pairs_sum": 200,
+        "accuracies": [
+            0.0442,
+            0.1497,
+            0.1042
+        ]
+    },
+    "0.90_225": {
+        "prune_rate": 0.9,
+        "exchange_pairs_sum": 225,
+        "accuracies": [
+            0.1462,
+            0.0235,
+            0.0477
+        ]
+    },
+    "0.90_250": {
+        "prune_rate": 0.9,
+        "exchange_pairs_sum": 250,
+        "accuracies": [
+            0.0288,
+            0.0312,
+            0.0456
+        ]
+    },
+    "0.90_275": {
+        "prune_rate": 0.9,
+        "exchange_pairs_sum": 275,
+        "accuracies": [
+            0.0473,
+            0.0285,
+            0.0147
+        ]
+    },
+    "0.90_300": {
+        "prune_rate": 0.9,
+        "exchange_pairs_sum": 300,
+        "accuracies": [
+            0.0134,
+            0.0134,
+            0.0682
+        ]
+    },
+    "0.90_325": {
+        "prune_rate": 0.9,
+        "exchange_pairs_sum": 325,
+        "accuracies": [
+            0.013,
+            0.0151,
+            0.0351
+        ]
+    },
+    "0.90_350": {
+        "prune_rate": 0.9,
+        "exchange_pairs_sum": 350,
+        "accuracies": [
+            0.0212,
+            0.0159,
+            0.0103
+        ]
+    },
+    "0.90_375": {
+        "prune_rate": 0.9,
+        "exchange_pairs_sum": 375,
+        "accuracies": [
+            0.0166,
+            0.0226,
+            0.0131
+        ]
+    },
+    "0.91_0": {
+        "prune_rate": 0.91,
+        "exchange_pairs_sum": 0,
+        "accuracies": [
+            0.5962,
+            0.6013,
+            0.5909
+        ]
+    },
+    "0.91_25": {
+        "prune_rate": 0.91,
+        "exchange_pairs_sum": 25,
+        "accuracies": [
+            0.5895,
+            0.5857,
+            0.5812
+        ]
+    },
+    "0.91_50": {
+        "prune_rate": 0.91,
+        "exchange_pairs_sum": 50,
+        "accuracies": [
+            0.5267,
+            0.5655,
+            0.4501
+        ]
+    },
+    "0.91_75": {
+        "prune_rate": 0.91,
+        "exchange_pairs_sum": 75,
+        "accuracies": [
+            0.4993,
+            0.4971,
+            0.5667
+        ]
+    },
+    "0.91_100": {
+        "prune_rate": 0.91,
+        "exchange_pairs_sum": 100,
+        "accuracies": [
+            0.4958,
+            0.2354,
+            0.211
+        ]
+    },
+    "0.91_125": {
+        "prune_rate": 0.91,
+        "exchange_pairs_sum": 125,
+        "accuracies": [
+            0.0601,
+            0.1294,
+            0.224
+        ]
+    },
+    "0.91_150": {
+        "prune_rate": 0.91,
+        "exchange_pairs_sum": 150,
+        "accuracies": [
+            0.0688,
+            0.0883,
+            0.1815
+        ]
+    },
+    "0.91_175": {
+        "prune_rate": 0.91,
+        "exchange_pairs_sum": 175,
+        "accuracies": [
+            0.0278,
+            0.0663,
+            0.0617
+        ]
+    },
+    "0.91_200": {
+        "prune_rate": 0.91,
+        "exchange_pairs_sum": 200,
+        "accuracies": [
+            0.1046,
+            0.061,
+            0.038
+        ]
+    },
+    "0.91_225": {
+        "prune_rate": 0.91,
+        "exchange_pairs_sum": 225,
+        "accuracies": [
+            0.0487,
+            0.0124,
+            0.0282
+        ]
+    },
+    "0.91_250": {
+        "prune_rate": 0.91,
+        "exchange_pairs_sum": 250,
+        "accuracies": [
+            0.0467,
+            0.0206,
+            0.0137
+        ]
+    },
+    "0.91_275": {
+        "prune_rate": 0.91,
+        "exchange_pairs_sum": 275,
+        "accuracies": [
+            0.0153,
+            0.0111,
+            0.0225
+        ]
+    },
+    "0.91_300": {
+        "prune_rate": 0.91,
+        "exchange_pairs_sum": 300,
+        "accuracies": [
+            0.0174,
+            0.0215,
+            0.0234
+        ]
+    },
+    "0.91_325": {
+        "prune_rate": 0.91,
+        "exchange_pairs_sum": 325,
+        "accuracies": [
+            0.0154,
+            0.0093,
+            0.0303
+        ]
+    },
+    "0.91_350": {
+        "prune_rate": 0.91,
+        "exchange_pairs_sum": 350,
+        "accuracies": [
+            0.0083,
+            0.0111,
+            0.0172
+        ]
+    },
+    "0.91_375": {
+        "prune_rate": 0.91,
+        "exchange_pairs_sum": 375,
+        "accuracies": [
+            0.0104,
+            0.0129,
+            0.01
+        ]
+    },
+    "0.92_0": {
+        "prune_rate": 0.92,
+        "exchange_pairs_sum": 0,
+        "accuracies": [
+            0.5981,
+            0.5892,
+            0.5974
+        ]
+    },
+    "0.92_25": {
+        "prune_rate": 0.92,
+        "exchange_pairs_sum": 25,
+        "accuracies": [
+            0.5659,
+            0.5767,
+            0.5744
+        ]
+    },
+    "0.92_50": {
+        "prune_rate": 0.92,
+        "exchange_pairs_sum": 50,
+        "accuracies": [
+            0.5494,
+            0.5242,
+            0.5512
+        ]
+    },
+    "0.92_75": {
+        "prune_rate": 0.92,
+        "exchange_pairs_sum": 75,
+        "accuracies": [
+            0.4146,
+            0.33,
+            0.4226
+        ]
+    },
+    "0.92_100": {
+        "prune_rate": 0.92,
+        "exchange_pairs_sum": 100,
+        "accuracies": [
+            0.3673,
+            0.3542,
+            0.3214
+        ]
+    },
+    "0.92_125": {
+        "prune_rate": 0.92,
+        "exchange_pairs_sum": 125,
+        "accuracies": [
+            0.2259,
+            0.0612,
+            0.0317
+        ]
+    },
+    "0.92_150": {
+        "prune_rate": 0.92,
+        "exchange_pairs_sum": 150,
+        "accuracies": [
+            0.0625,
+            0.089,
+            0.0388
+        ]
+    },
+    "0.92_175": {
+        "prune_rate": 0.92,
+        "exchange_pairs_sum": 175,
+        "accuracies": [
+            0.0284,
+            0.0738,
+            0.0621
+        ]
+    },
+    "0.92_200": {
+        "prune_rate": 0.92,
+        "exchange_pairs_sum": 200,
+        "accuracies": [
+            0.0226,
+            0.0474,
+            0.016
+        ]
+    },
+    "0.92_225": {
+        "prune_rate": 0.92,
+        "exchange_pairs_sum": 225,
+        "accuracies": [
+            0.0223,
+            0.0398,
+            0.0232
+        ]
+    },
+    "0.92_250": {
+        "prune_rate": 0.92,
+        "exchange_pairs_sum": 250,
+        "accuracies": [
+            0.026,
+            0.0137,
+            0.0141
+        ]
+    },
+    "0.92_275": {
+        "prune_rate": 0.92,
+        "exchange_pairs_sum": 275,
+        "accuracies": [
+            0.012,
+            0.0097,
+            0.0197
+        ]
+    },
+    "0.92_300": {
+        "prune_rate": 0.92,
+        "exchange_pairs_sum": 300,
+        "accuracies": [
+            0.0201,
+            0.0173,
+            0.014
+        ]
+    },
+    "0.92_325": {
+        "prune_rate": 0.92,
+        "exchange_pairs_sum": 325,
+        "accuracies": [
+            0.0201,
+            0.024,
+            0.0092
+        ]
+    },
+    "0.92_350": {
+        "prune_rate": 0.92,
+        "exchange_pairs_sum": 350,
+        "accuracies": [
+            0.0178,
+            0.0101,
+            0.016
+        ]
+    },
+    "0.92_375": {
+        "prune_rate": 0.92,
+        "exchange_pairs_sum": 375,
+        "accuracies": [
+            0.0147,
+            0.0224,
+            0.0125
+        ]
+    },
+    "0.93_0": {
+        "prune_rate": 0.93,
+        "exchange_pairs_sum": 0,
+        "accuracies": [
+            0.5936,
+            0.5905,
+            0.5935
+        ]
+    },
+    "0.93_25": {
+        "prune_rate": 0.93,
+        "exchange_pairs_sum": 25,
+        "accuracies": [
+            0.5716,
+            0.5597,
+            0.5791
+        ]
+    },
+    "0.93_50": {
+        "prune_rate": 0.93,
+        "exchange_pairs_sum": 50,
+        "accuracies": [
+            0.4416,
+            0.5213,
+            0.4184
+        ]
+    },
+    "0.93_75": {
+        "prune_rate": 0.93,
+        "exchange_pairs_sum": 75,
+        "accuracies": [
+            0.1835,
+            0.1496,
+            0.1132
+        ]
+    },
+    "0.93_100": {
+        "prune_rate": 0.93,
+        "exchange_pairs_sum": 100,
+        "accuracies": [
+            0.1709,
+            0.2043,
+            0.1733
+        ]
+    },
+    "0.93_125": {
+        "prune_rate": 0.93,
+        "exchange_pairs_sum": 125,
+        "accuracies": [
+            0.2826,
+            0.0858,
+            0.0617
+        ]
+    },
+    "0.93_150": {
+        "prune_rate": 0.93,
+        "exchange_pairs_sum": 150,
+        "accuracies": [
+            0.0475,
+            0.2113,
+            0.0539
+        ]
+    },
+    "0.93_175": {
+        "prune_rate": 0.93,
+        "exchange_pairs_sum": 175,
+        "accuracies": [
+            0.0359,
+            0.0221,
+            0.0171
+        ]
+    },
+    "0.93_200": {
+        "prune_rate": 0.93,
+        "exchange_pairs_sum": 200,
+        "accuracies": [
+            0.0249,
+            0.0228,
+            0.016
+        ]
+    },
+    "0.93_225": {
+        "prune_rate": 0.93,
+        "exchange_pairs_sum": 225,
+        "accuracies": [
+            0.0252,
+            0.0115,
+            0.0146
+        ]
+    },
+    "0.93_250": {
+        "prune_rate": 0.93,
+        "exchange_pairs_sum": 250,
+        "accuracies": [
+            0.049,
+            0.0234,
+            0.0119
+        ]
+    },
+    "0.93_275": {
+        "prune_rate": 0.93,
+        "exchange_pairs_sum": 275,
+        "accuracies": [
+            0.0102,
+            0.0337,
+            0.0121
+        ]
+    },
+    "0.93_300": {
+        "prune_rate": 0.93,
+        "exchange_pairs_sum": 300,
+        "accuracies": [
+            0.0241,
+            0.0056,
+            0.0218
+        ]
+    },
+    "0.93_325": {
+        "prune_rate": 0.93,
+        "exchange_pairs_sum": 325,
+        "accuracies": [
+            0.008,
+            0.0101,
+            0.016
+        ]
+    },
+    "0.93_350": {
+        "prune_rate": 0.93,
+        "exchange_pairs_sum": 350,
+        "accuracies": [
+            0.0113,
+            0.0122,
+            0.0126
+        ]
+    },
+    "0.93_375": {
+        "prune_rate": 0.93,
+        "exchange_pairs_sum": 375,
+        "accuracies": [
+            0.0133,
+            0.0269,
+            0.0072
+        ]
+    },
+    "0.94_0": {
+        "prune_rate": 0.9400000000000001,
+        "exchange_pairs_sum": 0,
+        "accuracies": [
+            0.581,
+            0.5869,
+            0.576
+        ]
+    },
+    "0.94_25": {
+        "prune_rate": 0.9400000000000001,
+        "exchange_pairs_sum": 25,
+        "accuracies": [
+            0.5588,
+            0.5018,
+            0.5557
+        ]
+    },
+    "0.94_50": {
+        "prune_rate": 0.9400000000000001,
+        "exchange_pairs_sum": 50,
+        "accuracies": [
+            0.2746,
+            0.097,
+            0.2891
+        ]
+    },
+    "0.94_75": {
+        "prune_rate": 0.9400000000000001,
+        "exchange_pairs_sum": 75,
+        "accuracies": [
+            0.1619,
+            0.161,
+            0.0482
+        ]
+    },
+    "0.94_100": {
+        "prune_rate": 0.9400000000000001,
+        "exchange_pairs_sum": 100,
+        "accuracies": [
+            0.065,
+            0.025,
+            0.145
+        ]
+    },
+    "0.94_125": {
+        "prune_rate": 0.9400000000000001,
+        "exchange_pairs_sum": 125,
+        "accuracies": [
+            0.0339,
+            0.0858,
+            0.0401
+        ]
+    },
+    "0.94_150": {
+        "prune_rate": 0.9400000000000001,
+        "exchange_pairs_sum": 150,
+        "accuracies": [
+            0.0911,
+            0.0289,
+            0.0128
+        ]
+    },
+    "0.94_175": {
+        "prune_rate": 0.9400000000000001,
+        "exchange_pairs_sum": 175,
+        "accuracies": [
+            0.0147,
+            0.0116,
+            0.0095
+        ]
+    },
+    "0.94_200": {
+        "prune_rate": 0.9400000000000001,
+        "exchange_pairs_sum": 200,
+        "accuracies": [
+            0.0165,
+            0.0141,
+            0.0204
+        ]
+    },
+    "0.94_225": {
+        "prune_rate": 0.9400000000000001,
+        "exchange_pairs_sum": 225,
+        "accuracies": [
+            0.0112,
+            0.0102,
+            0.0322
+        ]
+    },
+    "0.94_250": {
+        "prune_rate": 0.9400000000000001,
+        "exchange_pairs_sum": 250,
+        "accuracies": [
+            0.0161,
+            0.0144,
+            0.0115
+        ]
+    },
+    "0.94_275": {
+        "prune_rate": 0.9400000000000001,
+        "exchange_pairs_sum": 275,
+        "accuracies": [
+            0.0171,
+            0.0136,
+            0.0125
+        ]
+    },
+    "0.94_300": {
+        "prune_rate": 0.9400000000000001,
+        "exchange_pairs_sum": 300,
+        "accuracies": [
+            0.0034,
+            0.0094,
+            0.0141
+        ]
+    },
+    "0.94_325": {
+        "prune_rate": 0.9400000000000001,
+        "exchange_pairs_sum": 325,
+        "accuracies": [
+            0.01,
+            0.01,
+            0.0107
+        ]
+    },
+    "0.94_350": {
+        "prune_rate": 0.9400000000000001,
+        "exchange_pairs_sum": 350,
+        "accuracies": [
+            0.0177,
+            0.0217,
+            0.0073
+        ]
+    },
+    "0.94_375": {
+        "prune_rate": 0.9400000000000001,
+        "exchange_pairs_sum": 375,
+        "accuracies": [
+            0.0099,
+            0.0106,
+            0.0123
+        ]
+    },
+    "0.95_0": {
+        "prune_rate": 0.9500000000000001,
+        "exchange_pairs_sum": 0,
+        "accuracies": [
+            0.5822,
+            0.5881,
+            0.5751
+        ]
+    },
+    "0.95_25": {
+        "prune_rate": 0.9500000000000001,
+        "exchange_pairs_sum": 25,
+        "accuracies": [
+            0.4705,
+            0.5414,
+            0.4971
+        ]
+    },
+    "0.95_50": {
+        "prune_rate": 0.9500000000000001,
+        "exchange_pairs_sum": 50,
+        "accuracies": [
+            0.3402,
+            0.239,
+            0.225
+        ]
+    },
+    "0.95_75": {
+        "prune_rate": 0.9500000000000001,
+        "exchange_pairs_sum": 75,
+        "accuracies": [
+            0.0659,
+            0.1886,
+            0.062
+        ]
+    },
+    "0.95_100": {
+        "prune_rate": 0.9500000000000001,
+        "exchange_pairs_sum": 100,
+        "accuracies": [
+            0.0219,
+            0.0462,
+            0.0522
+        ]
+    },
+    "0.95_125": {
+        "prune_rate": 0.9500000000000001,
+        "exchange_pairs_sum": 125,
+        "accuracies": [
+            0.0298,
+            0.0286,
+            0.0251
+        ]
+    },
+    "0.95_150": {
+        "prune_rate": 0.9500000000000001,
+        "exchange_pairs_sum": 150,
+        "accuracies": [
+            0.0166,
+            0.0154,
+            0.0238
+        ]
+    },
+    "0.95_175": {
+        "prune_rate": 0.9500000000000001,
+        "exchange_pairs_sum": 175,
+        "accuracies": [
+            0.0141,
+            0.0062,
+            0.0129
+        ]
+    },
+    "0.95_200": {
+        "prune_rate": 0.9500000000000001,
+        "exchange_pairs_sum": 200,
+        "accuracies": [
+            0.0201,
+            0.01,
+            0.0088
+        ]
+    },
+    "0.95_225": {
+        "prune_rate": 0.9500000000000001,
+        "exchange_pairs_sum": 225,
+        "accuracies": [
+            0.0128,
+            0.0145,
+            0.0207
+        ]
+    },
+    "0.95_250": {
+        "prune_rate": 0.9500000000000001,
+        "exchange_pairs_sum": 250,
+        "accuracies": [
+            0.0089,
+            0.0063,
+            0.016
+        ]
+    },
+    "0.95_275": {
+        "prune_rate": 0.9500000000000001,
+        "exchange_pairs_sum": 275,
+        "accuracies": [
+            0.0147,
+            0.013,
+            0.0179
+        ]
+    },
+    "0.95_300": {
+        "prune_rate": 0.9500000000000001,
+        "exchange_pairs_sum": 300,
+        "accuracies": [
+            0.0153,
+            0.0085,
+            0.0137
+        ]
+    },
+    "0.95_325": {
+        "prune_rate": 0.9500000000000001,
+        "exchange_pairs_sum": 325,
+        "accuracies": [
+            0.0099,
+            0.0039,
+            0.0105
+        ]
+    },
+    "0.95_350": {
+        "prune_rate": 0.9500000000000001,
+        "exchange_pairs_sum": 350,
+        "accuracies": [
+            0.0079,
+            0.0131,
+            0.0188
+        ]
+    },
+    "0.95_375": {
+        "prune_rate": 0.9500000000000001,
+        "exchange_pairs_sum": 375,
+        "accuracies": [
+            0.0204,
+            0.0116,
+            0.019
+        ]
+    },
+    "0.96_0": {
+        "prune_rate": 0.9600000000000001,
+        "exchange_pairs_sum": 0,
+        "accuracies": [
+            0.5477,
+            0.5456,
+            0.5577
+        ]
+    },
+    "0.96_25": {
+        "prune_rate": 0.9600000000000001,
+        "exchange_pairs_sum": 25,
+        "accuracies": [
+            0.2832,
+            0.3813,
+            0.3588
+        ]
+    },
+    "0.96_50": {
+        "prune_rate": 0.9600000000000001,
+        "exchange_pairs_sum": 50,
+        "accuracies": [
+            0.2083,
+            0.1583,
+            0.0978
+        ]
+    },
+    "0.96_75": {
+        "prune_rate": 0.9600000000000001,
+        "exchange_pairs_sum": 75,
+        "accuracies": [
+            0.0325,
+            0.0205,
+            0.0642
+        ]
+    },
+    "0.96_100": {
+        "prune_rate": 0.9600000000000001,
+        "exchange_pairs_sum": 100,
+        "accuracies": [
+            0.0114,
+            0.0523,
+            0.0208
+        ]
+    },
+    "0.96_125": {
+        "prune_rate": 0.9600000000000001,
+        "exchange_pairs_sum": 125,
+        "accuracies": [
+            0.0115,
+            0.0216,
+            0.0167
+        ]
+    },
+    "0.96_150": {
+        "prune_rate": 0.9600000000000001,
+        "exchange_pairs_sum": 150,
+        "accuracies": [
+            0.0228,
+            0.0102,
+            0.0181
+        ]
+    },
+    "0.96_175": {
+        "prune_rate": 0.9600000000000001,
+        "exchange_pairs_sum": 175,
+        "accuracies": [
+            0.0172,
+            0.0234,
+            0.0155
+        ]
+    },
+    "0.96_200": {
+        "prune_rate": 0.9600000000000001,
+        "exchange_pairs_sum": 200,
+        "accuracies": [
+            0.0133,
+            0.0103,
+            0.0177
+        ]
+    },
+    "0.96_225": {
+        "prune_rate": 0.9600000000000001,
+        "exchange_pairs_sum": 225,
+        "accuracies": [
+            0.0154,
+            0.0176,
+            0.0125
+        ]
+    },
+    "0.96_250": {
+        "prune_rate": 0.9600000000000001,
+        "exchange_pairs_sum": 250,
+        "accuracies": [
+            0.0149,
+            0.0124,
+            0.011
+        ]
+    },
+    "0.96_275": {
+        "prune_rate": 0.9600000000000001,
+        "exchange_pairs_sum": 275,
+        "accuracies": [
+            0.0097,
+            0.0052,
+            0.0101
+        ]
+    },
+    "0.96_300": {
+        "prune_rate": 0.9600000000000001,
+        "exchange_pairs_sum": 300,
+        "accuracies": [
+            0.0147,
+            0.0138,
+            0.0163
+        ]
+    },
+    "0.96_325": {
+        "prune_rate": 0.9600000000000001,
+        "exchange_pairs_sum": 325,
+        "accuracies": [
+            0.0113,
+            0.0124,
+            0.0149
+        ]
+    },
+    "0.96_350": {
+        "prune_rate": 0.9600000000000001,
+        "exchange_pairs_sum": 350,
+        "accuracies": [
+            0.0104,
+            0.0122,
+            0.0186
+        ]
+    },
+    "0.96_375": {
+        "prune_rate": 0.9600000000000001,
+        "exchange_pairs_sum": 375,
+        "accuracies": [
+            0.0157,
+            0.0206,
+            0.0113
+        ]
+    },
+    "0.97_0": {
+        "prune_rate": 0.9700000000000001,
+        "exchange_pairs_sum": 0,
+        "accuracies": [
+            0.51,
+            0.551,
+            0.5305
+        ]
+    },
+    "0.97_25": {
+        "prune_rate": 0.9700000000000001,
+        "exchange_pairs_sum": 25,
+        "accuracies": [
+            0.0829,
+            0.1929,
+            0.2218
+        ]
+    },
+    "0.97_50": {
+        "prune_rate": 0.9700000000000001,
+        "exchange_pairs_sum": 50,
+        "accuracies": [
+            0.0447,
+            0.08,
+            0.0685
+        ]
+    },
+    "0.97_75": {
+        "prune_rate": 0.9700000000000001,
+        "exchange_pairs_sum": 75,
+        "accuracies": [
+            0.0155,
+            0.0147,
+            0.0213
+        ]
+    },
+    "0.97_100": {
+        "prune_rate": 0.9700000000000001,
+        "exchange_pairs_sum": 100,
+        "accuracies": [
+            0.0115,
+            0.0198,
+            0.0114
+        ]
+    },
+    "0.97_125": {
+        "prune_rate": 0.9700000000000001,
+        "exchange_pairs_sum": 125,
+        "accuracies": [
+            0.0133,
+            0.0102,
+            0.012
+        ]
+    },
+    "0.97_150": {
+        "prune_rate": 0.9700000000000001,
+        "exchange_pairs_sum": 150,
+        "accuracies": [
+            0.0058,
+            0.0156,
+            0.01
+        ]
+    },
+    "0.97_175": {
+        "prune_rate": 0.9700000000000001,
+        "exchange_pairs_sum": 175,
+        "accuracies": [
+            0.0089,
+            0.0251,
+            0.0319
+        ]
+    },
+    "0.97_200": {
+        "prune_rate": 0.9700000000000001,
+        "exchange_pairs_sum": 200,
+        "accuracies": [
+            0.0105,
+            0.0072,
+            0.0071
+        ]
+    },
+    "0.97_225": {
+        "prune_rate": 0.9700000000000001,
+        "exchange_pairs_sum": 225,
+        "accuracies": [
+            0.016,
+            0.0125,
+            0.0104
+        ]
+    },
+    "0.97_250": {
+        "prune_rate": 0.9700000000000001,
+        "exchange_pairs_sum": 250,
+        "accuracies": [
+            0.0104,
+            0.0114,
+            0.0183
+        ]
+    },
+    "0.97_275": {
+        "prune_rate": 0.9700000000000001,
+        "exchange_pairs_sum": 275,
+        "accuracies": [
+            0.0189,
+            0.0131,
+            0.0135
+        ]
+    },
+    "0.97_300": {
+        "prune_rate": 0.9700000000000001,
+        "exchange_pairs_sum": 300,
+        "accuracies": [
+            0.0115,
+            0.0208,
+            0.0111
+        ]
+    },
+    "0.97_325": {
+        "prune_rate": 0.9700000000000001,
+        "exchange_pairs_sum": 325,
+        "accuracies": [
+            0.0182,
+            0.0133,
+            0.0265
+        ]
+    },
+    "0.97_350": {
+        "prune_rate": 0.9700000000000001,
+        "exchange_pairs_sum": 350,
+        "accuracies": [
+            0.0109,
+            0.0253,
+            0.0112
+        ]
+    },
+    "0.97_375": {
+        "prune_rate": 0.9700000000000001,
+        "exchange_pairs_sum": 375,
+        "accuracies": [
+            0.0145,
+            0.0076,
+            0.0132
+        ]
+    },
+    "0.98_0": {
+        "prune_rate": 0.9800000000000001,
+        "exchange_pairs_sum": 0,
+        "accuracies": [
+            0.3527,
+            0.4178,
+            0.4129
+        ]
+    },
+    "0.98_25": {
+        "prune_rate": 0.9800000000000001,
+        "exchange_pairs_sum": 25,
+        "accuracies": [
+            0.0358,
+            0.0154,
+            0.0265
+        ]
+    },
+    "0.98_50": {
+        "prune_rate": 0.9800000000000001,
+        "exchange_pairs_sum": 50,
+        "accuracies": [
+            0.0164,
+            0.0094,
+            0.0141
+        ]
+    },
+    "0.98_75": {
+        "prune_rate": 0.9800000000000001,
+        "exchange_pairs_sum": 75,
+        "accuracies": [
+            0.0129,
+            0.0128,
+            0.0104
+        ]
+    },
+    "0.98_100": {
+        "prune_rate": 0.9800000000000001,
+        "exchange_pairs_sum": 100,
+        "accuracies": [
+            0.0143,
+            0.0107,
+            0.0087
+        ]
+    },
+    "0.98_125": {
+        "prune_rate": 0.9800000000000001,
+        "exchange_pairs_sum": 125,
+        "accuracies": [
+            0.0136,
+            0.0089,
+            0.0201
+        ]
+    },
+    "0.98_150": {
+        "prune_rate": 0.9800000000000001,
+        "exchange_pairs_sum": 150,
+        "accuracies": [
+            0.0127,
+            0.0085,
+            0.0181
+        ]
+    },
+    "0.98_175": {
+        "prune_rate": 0.9800000000000001,
+        "exchange_pairs_sum": 175,
+        "accuracies": [
+            0.0142,
+            0.0106,
+            0.0079
+        ]
+    },
+    "0.98_200": {
+        "prune_rate": 0.9800000000000001,
+        "exchange_pairs_sum": 200,
+        "accuracies": [
+            0.0087,
+            0.0098,
+            0.0173
+        ]
+    },
+    "0.98_225": {
+        "prune_rate": 0.9800000000000001,
+        "exchange_pairs_sum": 225,
+        "accuracies": [
+            0.0202,
+            0.0105,
+            0.0094
+        ]
+    },
+    "0.98_250": {
+        "prune_rate": 0.9800000000000001,
+        "exchange_pairs_sum": 250,
+        "accuracies": [
+            0.0096,
+            0.0103,
+            0.0211
+        ]
+    },
+    "0.98_275": {
+        "prune_rate": 0.9800000000000001,
+        "exchange_pairs_sum": 275,
+        "accuracies": [
+            0.0163,
+            0.0275,
+            0.0172
+        ]
+    },
+    "0.98_300": {
+        "prune_rate": 0.9800000000000001,
+        "exchange_pairs_sum": 300,
+        "accuracies": [
+            0.0199,
+            0.0122,
+            0.021
+        ]
+    },
+    "0.98_325": {
+        "prune_rate": 0.9800000000000001,
+        "exchange_pairs_sum": 325,
+        "accuracies": [
+            0.0092,
+            0.0159,
+            0.0119
+        ]
+    },
+    "0.98_350": {
+        "prune_rate": 0.9800000000000001,
+        "exchange_pairs_sum": 350,
+        "accuracies": [
+            0.0107,
+            0.0131,
+            0.0193
+        ]
+    },
+    "0.98_375": {
+        "prune_rate": 0.9800000000000001,
+        "exchange_pairs_sum": 375,
+        "accuracies": [
+            0.0051,
+            0.0198,
+            0.0162
+        ]
+    },
+    "0.99_0": {
+        "prune_rate": 0.9900000000000001,
+        "exchange_pairs_sum": 0,
+        "accuracies": [
+            0.2584,
+            0.1809,
+            0.092
+        ]
+    },
+    "0.99_25": {
+        "prune_rate": 0.9900000000000001,
+        "exchange_pairs_sum": 25,
+        "accuracies": [
+            0.011,
+            0.0131,
+            0.026
+        ]
+    },
+    "0.99_50": {
+        "prune_rate": 0.9900000000000001,
+        "exchange_pairs_sum": 50,
+        "accuracies": [
+            0.0137,
+            0.0155,
+            0.0143
+        ]
+    },
+    "0.99_75": {
+        "prune_rate": 0.9900000000000001,
+        "exchange_pairs_sum": 75,
+        "accuracies": [
+            0.0154,
+            0.0139,
+            0.0157
+        ]
+    },
+    "0.99_100": {
+        "prune_rate": 0.9900000000000001,
+        "exchange_pairs_sum": 100,
+        "accuracies": [
+            0.0113,
+            0.0157,
+            0.0192
+        ]
+    },
+    "0.99_125": {
+        "prune_rate": 0.9900000000000001,
+        "exchange_pairs_sum": 125,
+        "accuracies": [
+            0.0113,
+            0.0113,
+            0.0188
+        ]
+    },
+    "0.99_150": {
+        "prune_rate": 0.9900000000000001,
+        "exchange_pairs_sum": 150,
+        "accuracies": [
+            0.0097,
+            0.014,
+            0.0214
+        ]
+    },
+    "0.99_175": {
+        "prune_rate": 0.9900000000000001,
+        "exchange_pairs_sum": 175,
+        "accuracies": [
+            0.0094,
+            0.0132,
+            0.0124
+        ]
+    },
+    "0.99_200": {
+        "prune_rate": 0.9900000000000001,
+        "exchange_pairs_sum": 200,
+        "accuracies": [
+            0.0205,
+            0.0126,
+            0.0147
+        ]
+    },
+    "0.99_225": {
+        "prune_rate": 0.9900000000000001,
+        "exchange_pairs_sum": 225,
+        "accuracies": [
+            0.0145,
+            0.0106,
+            0.0193
+        ]
+    },
+    "0.99_250": {
+        "prune_rate": 0.9900000000000001,
+        "exchange_pairs_sum": 250,
+        "accuracies": [
+            0.0107,
+            0.0089,
+            0.0135
+        ]
+    },
+    "0.99_275": {
+        "prune_rate": 0.9900000000000001,
+        "exchange_pairs_sum": 275,
+        "accuracies": [
+            0.006,
+            0.0203,
+            0.0084
+        ]
+    },
+    "0.99_300": {
+        "prune_rate": 0.9900000000000001,
+        "exchange_pairs_sum": 300,
+        "accuracies": [
+            0.0119,
+            0.0104,
+            0.0133
+        ]
+    },
+    "0.99_325": {
+        "prune_rate": 0.9900000000000001,
+        "exchange_pairs_sum": 325,
+        "accuracies": [
+            0.0324,
+            0.0166,
+            0.0103
+        ]
+    },
+    "0.99_350": {
+        "prune_rate": 0.9900000000000001,
+        "exchange_pairs_sum": 350,
+        "accuracies": [
+            0.0104,
+            0.0207,
+            0.0149
+        ]
+    },
+    "0.99_375": {
+        "prune_rate": 0.9900000000000001,
+        "exchange_pairs_sum": 375,
+        "accuracies": [
+            0.0107,
+            0.0141,
+            0.0191
+        ]
+    },
+    "1.00_0": {
+        "prune_rate": 1.0,
+        "exchange_pairs_sum": 0,
+        "accuracies": [
+            0.01,
+            0.01,
+            0.01
+        ]
+    }
+}
